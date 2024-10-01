@@ -1,0 +1,7 @@
+- 👋 Hey there! I’m Drew (@IAM-drew-stephens), your friendly neighborhood Senior Security Engineer.
+- 👀 I'm all about Automations—turning the manual grind into smooth, seamless processes.
+- 🌱 Currently diving deep into GoLang and loving the journey.
+- 💞️ Always down to collaborate on ILM and IGA automations—let's make identity management smarter, not harder.
+- 📫 The best way to reach me? Hit me up on Slack!
+- 😄 Pronouns: He / Him.
+- ⚡ Fun fact: When I'm not engineering security, I'm running my own website, iamgatekeepers.com —come check it out!
